@@ -3,6 +3,10 @@ Este Repositorio consiste en el proyecto de Computer Visual Inspection usando he
 Usando la libreria de Face_Recognition de Python, se pudo desplegar el programa para identificacion y aprobacion de acceso. Se usaron herramientas de OpenCV, Dlib, y Numpy.
 
 
+Se uso como estudio de caso de nuestra "empresa" NPI Solutions, en el que se llevo a cabo un trabajo de consultoria para la creacion de esta solution tecnologica. 
+
+
+Este trabajo fue realizado por Celeste Lopez y Felix Zambrano como parte de la promocion de Inteligencia Artificial de Factoria F5.
 
 
 
