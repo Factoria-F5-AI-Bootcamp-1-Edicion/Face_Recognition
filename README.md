@@ -1,4 +1,4 @@
-Este Repositorio consiste en el proyecto de Computer Visual Inspection usando herramientas de machine learning para crear un sistema capaz de identificar a traves de reconocimiento facial, a los miembros de la promocion para darles acceso a clase. 
+Este Repositorio consiste en el proyecto de Computer Visual Inspection usando herramientas de machine learning para crear un sistema capaz de identificar a traves de reconocimiento facial, a los miembros de la promocion para darles acceso al evento. 
 
 Usando la libreria de Face_Recognition de Python, se pudo desplegar el programa para identificacion y aprobacion de acceso. Se usaron herramientas de OpenCV, Dlib, y Numpy.
 
