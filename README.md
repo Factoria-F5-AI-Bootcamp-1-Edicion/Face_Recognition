@@ -1,13 +1,39 @@
 Este Repositorio consiste en el proyecto de Computer Visual Inspection usando herramientas de machine learning para crear un sistema capaz de identificar a traves de reconocimiento facial, a los miembros de la promocion para darles acceso al evento. 
 
-Usando la libreria de Face_Recognition de Python, se pudo desplegar el programa para identificacion y aprobacion de acceso. Se usaron herramientas de OpenCV, Dlib, y Numpy.
+Instalación y despliegue del programa de reconocimiento facial con OpenCV y Python
 
+Este programa utiliza la biblioteca de visión por computadora OpenCV y el lenguaje de programación Python para realizar el reconocimiento facial.
+Requisitos previos
 
-Se uso como estudio de caso de nuestra "empresa" NPI Solutions, en el que se llevo a cabo un trabajo de consultoria para la creacion de esta solution tecnologica. 
+Antes de comenzar, asegúrese de tener instalados los siguientes componentes en su sistema:
 
+    Python 3.x
+    OpenCV
+    Numpy
 
-Este trabajo fue realizado por Celeste Lopez y Felix Zambrano como parte de la promocion de Inteligencia Artificial de Factoria F5.
+Puede instalarlos utilizando pip:
 
+pip install opencv-python 
+pip install numpy 
+
+Descarga del código
+
+    Haz clic en el botón "Clone or download" en la página principal del repositorio.
+    Selecciona "Download ZIP".
+    Descomprima el archivo ZIP en su directorio local.
+
+Despliegue del programa
+
+    Abra un terminal o símbolo del sistema y navegue hasta la carpeta donde se encuentra el código descargado.
+    Ejecute el siguiente comando para ejecutar el programa:
+
+python face_recognition.py 
+
+    Siga las instrucciones en pantalla para cargar una imagen y realizar el reconocimiento facial.
+
+Nota
+
+Es posible que deba ajustar los parámetros del programa según sus necesidades específicas. Por favor, consulte la documentación de OpenCV y Python para obtener más información sobre cómo hacerlo.
 
 
 
